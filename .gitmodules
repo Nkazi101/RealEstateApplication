@@ -1,0 +1,6 @@
+[submodule "spring-mvc"]
+	path = spring-mvc
+	url = https://github.com/Nkazi101/realestate-springmvc.git
+[submodule "react"]
+	path = react
+	url = https://github.com/Nkazi101/realestate-react.git
